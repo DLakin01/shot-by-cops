@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2017-12-13
+  address: MyString
+  officers: 1
+  subjects: 1
+  fatalities: 1
+  officer_gender: MyString
+  subject_gender: MyString
+  subject_armed: false
+  notes: MyString
+
+two:
+  date: 2017-12-13
+  address: MyString
+  officers: 1
+  subjects: 1
+  fatalities: 1
+  officer_gender: MyString
+  subject_gender: MyString
+  subject_armed: false
+  notes: MyString
